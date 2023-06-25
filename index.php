@@ -313,7 +313,7 @@
      <span class="flex gap-4">
      <a href="https://www.instagram.com/klvncj"><i class='bx bxl-instagram bx-sm'></i></a>
      <a href="https://github.com/klvncj"><i class='bx bxl-github bx-sm'></i></a>
-     <a href="https://kelvincj.netlify.app"><i class='bx bx-info-circle bx-sm'></i></a>
+     <a href="https://klvncj.netlify.app/"><i class='bx bx-info-circle bx-sm'></i></a>
 
     </span>
     </footer>
